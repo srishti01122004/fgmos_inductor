@@ -99,19 +99,6 @@ The synthetic inductor was used to implement a **band-pass filter** by combining
 
 ---
 
-## Files
-
-| File | Description |
-|------|-------------|
-| `*.asc` | LTspice schematic files |
-| `screenshots/inductance.png` | Inductance vs frequency plot |
-| `screenshots/impedance.png` | Impedance vs frequency plot |
-| `screenshots/bpf_gain.png` | Band-pass filter gain response |
-| `report.pdf` | Full project report (unpublished) |
-| `README.md` | This file |
-
----
-
 ## References
 
 - A. Yesil, E. Yuce, and S. Minaei, "MOSFET-C-Based Grounded Active Inductors with Electronically Tunable Properties," *Int. J. RF Microw. Comput. Aided Eng.*, vol. 30, no. 8, p. e22274, 2020.
