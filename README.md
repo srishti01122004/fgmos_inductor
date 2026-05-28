@@ -44,7 +44,8 @@ Conventional synthetic inductors use standard MOSFET topologies, but suffer from
 
 ### 1. Inductance vs Frequency
 
-![Inductance](screenshots/inductance.png)
+<img width="3216" height="2280" alt="inductance" src="https://github.com/user-attachments/assets/bfac185e-a752-4542-84d9-eeae7988be66" />
+
 
 - Flat inductive behaviour observed from **10kHz up to ~10MHz**
 - Self-resonance occurs around **15–20MHz** — characteristic of active inductor topologies
@@ -54,7 +55,8 @@ Conventional synthetic inductors use standard MOSFET topologies, but suffer from
 
 ### 2. Impedance vs Frequency
 
-![Impedance](screenshots/impedance.png)
+<img width="3216" height="2280" alt="impedance" src="https://github.com/user-attachments/assets/e2144919-2fa8-4116-ad79-9c4c0ad38bad" />
+
 
 - Impedance rises with frequency in the inductive region — consistent with Z = jωL behaviour
 - Peak impedance at self-resonant frequency (~20MHz) reaches ~100dB
@@ -64,7 +66,8 @@ Conventional synthetic inductors use standard MOSFET topologies, but suffer from
 
 ### 3. Band-Pass Filter — Gain Response
 
-![BPF Gain](screenshots/bpf_gain.png)
+<img width="3216" height="2280" alt="bpf_gain" src="https://github.com/user-attachments/assets/98dcbf9c-586b-4c85-a405-fe256f3f61c3" />
+
 
 The synthetic inductor was used to implement a **band-pass filter** by combining it with a load capacitor. Results:
 
